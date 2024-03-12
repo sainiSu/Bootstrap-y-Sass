@@ -1,0 +1,22 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main {
+  height: 539px;
+  width: 60%;
+  margin: auto;
+  margin-top: 70px;
+}
+
+.svg2 {
+  border: 15px solid black;
+  border-radius: 20px;
+}
+.col-md-6{
+    margin-top: 80px;
+}
+/*# sourceMappingURL=styles.css.map */

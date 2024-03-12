@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-y-sass",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap with Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass sass/custom.scss src/styles.css -w"
+  },
+  "keywords": [
+    "Bootstarp",
+    "bootstrap",
+    "-v5",
+    "Sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
